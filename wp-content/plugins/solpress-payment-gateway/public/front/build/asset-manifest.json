@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44d61635.css",
+    "main.js": "/static/js/main.min.js",
+    "static/js/883.min.js": "/static/js/883.min.js",
+    "static/js/25.min.js": "/static/js/25.min.js",
+    "static/js/940.min.js": "/static/js/940.min.js",
+    "static/js/997.min.js": "/static/js/997.min.js",
+    "static/js/347.min.js": "/static/js/347.min.js",
+    "static/js/367.min.js": "/static/js/367.min.js",
+    "static/js/936.min.js": "/static/js/936.min.js",
+    "static/js/74.min.js": "/static/js/74.min.js",
+    "static/js/243.min.js": "/static/js/243.min.js",
+    "static/media/solana-sol-logo.svg": "/static/media/solana-sol-logo.518e83c59cd3cbd0b15ee058a58bc992.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.min.css",
+    "static/js/main.min.js",
+    "static/css/main.44d61635.css"
+  ]
+}

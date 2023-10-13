@@ -1,0 +1,7 @@
+public/front/node_modules
+wp-var-analysis.txt
+wp-vip-go.txt
+wp-vip-min.txt
+vendor
+release
+.vscode
